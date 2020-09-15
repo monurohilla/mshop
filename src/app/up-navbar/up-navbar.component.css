@@ -1,0 +1,11 @@
+.dropdown-toggle{
+    cursor: pointer;
+}
+.footer{
+    font-size: 16px;
+    color: red;
+    padding: 9.5px 25px;
+    position:fixed;
+    bottom: 0;
+    width: 100%
+}
